@@ -15,7 +15,7 @@ def read_file():
 
 def process_data():
     value = unknown_variable + 10   # ❌ NameError
-    return value
+    retur value
 
 
 def main():
@@ -26,3 +26,4 @@ def main():
 
 if __name__ == "__main__"
     main()   # ❌ Syntax error (missing colon)
+
