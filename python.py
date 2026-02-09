@@ -24,6 +24,7 @@ def main():
     print(process_data())
 
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()   # ❌ Syntax error (missing colon)
+
 
