@@ -1,4 +1,3 @@
-
 bad_syntax <- mean(c(1,2,3)
 
 print(undefined_variable)
@@ -52,3 +51,4 @@ if (5 = 3) {
 }
 
 BadVariableName=5
+
