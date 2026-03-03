@@ -23,7 +23,6 @@ if (NA) {
 
 library(nonexistentPackageXYZ)
 
-# 9️⃣ DIVISION BY ZERO (Warning)
 a <- 10 / 0
 print(a)
 
@@ -57,3 +56,4 @@ if (5 = 3) {
 
 
 BadVariableName=5
+
